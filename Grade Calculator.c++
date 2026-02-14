@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int percentage;
-    cout << "Percentage Calculator" << endl;
+    cout << "Grade Calculator" << endl;
     cout << "!!! ENTER YOUR PERCENTAGE !!! : " << endl;
     cin >> percentage;
     if (percentage >= 90)
@@ -33,3 +33,4 @@ int main()
         return 0;
     }
 }
+
